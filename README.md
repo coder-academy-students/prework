@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 
 
-# Websites for Fast Track Students
+# Websites for students
 
-Coder Factory Students can freely apply for accounts on these websites below.
+Coder Factory students can freely apply for accounts on these websites below.
 
 Github
   https://github.com/join
