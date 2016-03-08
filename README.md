@@ -23,3 +23,6 @@ https://news.ycombinator.com/
 
 Stack Overflow
 https://stackoverflow.com/users/signup
+
+Cloudinary
+https://cloudinary.com/users/register/free
