@@ -5,11 +5,11 @@
 
 Coder Factory Students can freely apply for accounts on these websites below.
 
-Github account
+Github
 https://github.com/join
 
 
-Heroku account
+Heroku
 https://signup.heroku.com/
 
 
