@@ -49,6 +49,7 @@ Techquickie with Linus Gabriel Sebastian
   https://www.youtube.com/user/Techquickie
 
 ## Suggested Online Tutorials
+Below are some reccommended easy to use website tutorial tools to help improve your programming skills.
 
 Try Ruby  
   http://tryruby.org/
