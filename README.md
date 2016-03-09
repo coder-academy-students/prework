@@ -30,7 +30,7 @@ Cloudinary
   https://cloudinary.com/users/register/free
 
 
-### Suggested viewing
+### Suggested Viewing
 There is a wide variety of content for programmers availble on the web - here are some of our choices.
 
 Devtips with Travis Neilson  
