@@ -73,15 +73,15 @@ Javascript for Cats
 ## Social media and community
 Connect with other students and hear about Coder Factory's community events.
   
-Private Facebook Group
+Private Facebook Group  
   https://www.facebook.com/groups/thecoderfactory
 
-Twitter
+Twitter  
   https://www.twitter.com/coderfactory
 
-LinkedIn
+LinkedIn  
   https://www.linkedin.com/company/the-coder-factory
 
-Youtube Channel
+Youtube Channel  
   https://www.youtube.com/channel/UCD962ezCyV6rMu_aZ6PnAmw
 
