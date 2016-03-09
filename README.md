@@ -6,23 +6,23 @@
 ### Programmer Tools
 Coder Factory students can freely apply for accounts on these websites below.
 
-Github
+Github  
   https://github.com/join
 
 
-Heroku
+Heroku  
   https://signup.heroku.com/
 
 
-Codepen.io
+Codepen.io  
   https://codepen.io/signup
 
 
-Hackernews
+Hackernews  
   https://news.ycombinator.com/
 
 
-Stack Overflow 
+Stack Overflow  
   https://stackoverflow.com/users/signup
 
 
