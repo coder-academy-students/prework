@@ -33,17 +33,41 @@ Cloudinary
 ### Suggested viewing
 There is a wide variety of content for programmers availble on the web - here are some of our choices.
 
-Devtips with Travis Neilson
-https://www.youtube.com/user/DevTipsForDesigners
+Devtips with Travis Neilson  
+  https://www.youtube.com/user/DevTipsForDesigners
 
 
-Levelup Tutorials with Scott Tolinski
-https://www.youtube.com/user/LevelUpTuts
+Levelup Tutorials with Scott Tolinski  
+  https://www.youtube.com/user/LevelUpTuts
 
 
-Fun Fun Functions with Mattias Petter Johansson
-https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+Fun Fun Functions with Mattias Petter Johansson  
+  https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 
 
-Techquickie with Linus Gabriel Sebastian
-https://www.youtube.com/user/Techquickie
+Techquickie with Linus Gabriel Sebastian  
+  https://www.youtube.com/user/Techquickie
+
+## Suggested Online Tutorials
+
+Try Ruby  
+  http://tryruby.org/
+  
+Learn Ruby The Hard Way  
+  http://learnrubythehardway.org/
+  
+Poignant  
+  http://poignant.guide/
+
+Codecademy HTML/CSS  
+  https://www.codecademy.com/learn/web
+
+Codecademy Javascript  
+  https://www.codecademy.com/learn/javascript
+  
+Javascript for Cats  
+  http://jsforcats.com/
+  
+
+  
+
