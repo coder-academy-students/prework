@@ -48,6 +48,7 @@ Fun Fun Functions with Mattias Petter Johansson
 Techquickie with Linus Gabriel Sebastian  
   https://www.youtube.com/user/Techquickie
 
+
 ## Suggested Online Tutorials
 Below are some reccommended easy to use website tutorial tools to help improve your programming skills.
 
@@ -69,6 +70,15 @@ Codecademy Javascript
 Javascript for Cats  
   http://jsforcats.com/
   
+Try Git  
+  https://try.github.io
+  
+Learn Git Branching  
+  https://pcottle.github.io/learnGitBranching/
+  
+Rails for Zombies 2  
+  https://www.codeschool.com/courses/rails-for-zombies-2
+
 
 ## Social media and community
 Connect with other students and hear about Coder Factory's community events.
