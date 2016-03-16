@@ -83,15 +83,15 @@ Rails for Zombies 2
 ## Social media and community
 Connect with other students and hear about Coder Factory's community events.
   
-Private Facebook Group  
+Join our Private Facebook Group  
   https://www.facebook.com/groups/thecoderfactory
 
-Twitter  
+Follow us Twitter  
   https://www.twitter.com/coderfactory
 
-LinkedIn  
+Follow us LinkedIn  
   https://www.linkedin.com/company/the-coder-factory
 
-Youtube Channel  
+Subscribe to our Youtube Channel  
   https://www.youtube.com/channel/UCD962ezCyV6rMu_aZ6PnAmw
 
