@@ -3,6 +3,8 @@
 
 # Websites for students
 
+<p align="center">New Fast Track User Challenge -> Fill out your Slack Profile!</p>
+
 ### Programmer Tools
 Coder Factory students can freely apply for accounts on these websites below.
 
