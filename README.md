@@ -80,6 +80,10 @@ Learn Git Branching
   
 Rails for Zombies 2  
   https://www.codeschool.com/courses/rails-for-zombies-2
+  
+Iprove your touch typing skills  
+  http://typing.lk/
+  
 
 
 ## Social media and community
