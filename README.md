@@ -24,14 +24,14 @@ This is the bible for software developers. It will become your best friend form 
 ## Suggested Online Tutorials
 Below are some recommended easy to use website tutorial tools to help improve your programming skills.
 
-**Codecademy HTML/CSS** <br>  
-HTML and CSS are the basic building blocks of websites. If you get through the following tutorial it will set you up for success in the Fast Track course.
+**Codecademy HTML/CSS** <br>
+HTML and CSS are the basic building blocks of websites. If you get through the following tutorial it will set you up for success in the Fast Track course.<br>
   https://www.codecademy.com/learn/web
 
 **Try Ruby** <br>
-To add another challenge you can give your first programming language a try.
+To add another challenge you can give your first programming language a try.<br>
   http://tryruby.org/
 
 **Touch typing** <br>
-Test out how fast you type, some of our staff can type over 100 words per minute!
+Test out how fast you type, some of our staff can type over 100 words per minute!<br>
   http://typing.lk/
