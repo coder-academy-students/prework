@@ -8,96 +8,34 @@
 ### Programmer Tools
 Coder Factory students can freely apply for accounts on these websites below.
 
-Github  
-  https://github.com/join
-
-
-Heroku  
-  https://signup.heroku.com/
-
-
-Codepen.io  
-  https://codepen.io/signup
+Codepen.io
+Codepen is a website where you can test out your code and view other peoples work. Many recruiters use Codepen to find software developers and throughout the course you should be building a portfolio of work within.
+ http://codepen.io/
 
 
 Hackernews  
+A news resource frequented by many IT professionals and owned by the largest venture capital firm in the world. This website will help you see what cool projects are going on in the IT space, don't feel you have to understand it all.
   https://news.ycombinator.com/
 
 
 Stack Overflow  
+This is the bible for software developers. It will become your best friend form here on as it will give you the solutions to many of problems you will face.
   https://stackoverflow.com/users/signup
 
 
-Cloudinary  
-  https://cloudinary.com/users/register/free
-
-
-### Suggested Viewing
-There is a wide variety of content for programmers availble on the web - here are some of our choices.
-
-Devtips with Travis Neilson  
-  https://www.youtube.com/user/DevTipsForDesigners
-
-
-Levelup Tutorials with Scott Tolinski  
-  https://www.youtube.com/user/LevelUpTuts
-
-
-Fun Fun Functions with Mattias Petter Johansson  
-  https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
-
-
-Techquickie with Linus Gabriel Sebastian  
-  https://www.youtube.com/user/Techquickie
-
-
 ## Suggested Online Tutorials
-Below are some reccommended easy to use website tutorial tools to help improve your programming skills.
+Below are some recommended easy to use website tutorial tools to help improve your programming skills.
 
-Try Ruby  
-  http://tryruby.org/
-  
-Learn Ruby The Hard Way  
-  http://learnrubythehardway.org/
-  
-Poignant  
-  http://poignant.guide/
-
+HTML and CSS are the basic building blocks of websites. If you get through the following tutorial it will set you up for success in the Fast Track course.
 Codecademy HTML/CSS  
   https://www.codecademy.com/learn/web
 
-Codecademy Javascript  
-  https://www.codecademy.com/learn/javascript
-  
-Javascript for Cats  
-  http://jsforcats.com/
-  
-Try Git  
-  https://try.github.io
-  
-Learn Git Branching  
-  https://pcottle.github.io/learnGitBranching/
-  
-Rails for Zombies 2  
-  https://www.codeschool.com/courses/rails-for-zombies-2
-  
-Iprove your touch typing skills  
+
+To add another challenge you can give your first programming language a try.
+Try Ruby  
+  http://tryruby.org/
+
+
+Test out how fast you type, some of our staff can type over 100 words per minute!
+Touch typing
   http://typing.lk/
-  
-
-
-## Social media and community
-Connect with other students and hear about Coder Factory's community events.
-  
-Join our Private Facebook Group  
-  https://www.facebook.com/groups/thecoderfactory
-
-Follow us Twitter  
-  https://www.twitter.com/coderfactory
-
-Follow us LinkedIn  
-  https://www.linkedin.com/company/the-coder-factory
-
-Subscribe to our Youtube Channel  
-  https://www.youtube.com/channel/UCD962ezCyV6rMu_aZ6PnAmw
-
