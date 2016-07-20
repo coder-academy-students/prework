@@ -7,17 +7,17 @@
 #### Coder Factory students can freely apply for accounts on these websites below.
 
 **Codepen.io** <br>
-Codepen is a website where you can test out your code and view other peoples work. Many recruiters use Codepen to find software developers and throughout the course you should be building a portfolio of work within.<br>
+Codepen is a website where you can test out your code and view other peoples work. Many recruiters use Codepen to find software developers and throughout the course you should be building a portfolio of work within. <br>
  http://codepen.io/
 
 
 **Hackernews** <br>
-A news resource frequented by many IT professionals and owned by the largest venture capital firm in the world. This website will help you see what cool projects are going on in the IT space, don't feel you have to understand it all.<br>
+A news resource frequented by many IT professionals and owned by the largest venture capital firm in the world. This website will help you see what cool projects are going on in the IT space, don't feel you have to understand it all. <br>
   https://news.ycombinator.com/
 
 
 **Stack Overflow** <br>
-This is the bible for software developers. It will become your best friend form here on as it will give you the solutions to many of problems you will face.<br>
+This is the bible for software developers. It will become your best friend form here on as it will give you the solutions to many of problems you will face. <br>
   https://stackoverflow.com/users/signup
 
 
